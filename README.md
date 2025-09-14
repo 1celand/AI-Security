@@ -7,6 +7,7 @@
 - [越狱相关](#越狱相关)
 
 ## 人工智能基本知识
+- [大模型原理与实践](https://github.com/datawhalechina/happy-llm—)
 - [RAG技术全栈指南](https://github.com/datawhalechina/all-in-rag)
 
 ## 大模型安全论文
