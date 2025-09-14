@@ -5,6 +5,7 @@
 - [大模型安全论文](#大模型安全论文)
 - [攻击矩阵](#攻击矩阵)
 - [安全论坛专栏](#安全论坛专栏)
+- [网络安全大模型](#网络安全大模型)
 - [越狱相关](#越狱相关)
 
 ## 人工智能基本知识
@@ -20,6 +21,9 @@
 ## 安全论坛专栏
 - [先知社区AI专栏](https://xz.aliyun.com/news)
 - [奇安信AI人工智能](https://forum.butian.net/community/AI/newest)
+
+## 网络安全大模型
+- [AutoAudit](https://github.com/ddzipp/AutoAudit)
 
 ## 越狱相关
 - [Prompt越狱手册](https://github.com/Acmesec/PromptJailbreakManual)
