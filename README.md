@@ -24,6 +24,7 @@
 
 ## 网络安全大模型
 - [AutoAudit](https://github.com/ddzipp/AutoAudit)
+- [SecGPT](https://github.com/Clouditera/SecGPT)
 
 ## 越狱相关
 - [Prompt越狱手册](https://github.com/Acmesec/PromptJailbreakManual)
