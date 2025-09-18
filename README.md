@@ -7,6 +7,7 @@
 - [安全论坛专栏](#安全论坛专栏)
 - [网络安全大模型](#网络安全大模型)
 - [越狱相关](#越狱相关)
+- [工具MCP实现](#工具MCP实现)
 
 ## 人工智能基本知识
 - [大模型原理与实践](https://github.com/datawhalechina/happy-llm—)
@@ -31,3 +32,5 @@
 - [AI Prompt 越狱实例](https://github.com/Acmesec/AIPromptJailbreakPractice)
 - [大模型越狱资源相关整理](https://github.com/1celand/LLM-Jailbreak)
 
+## 工具MCP实现
+- [uncover mcp server](https://github.com/Co5mos/uncover-mcp)
