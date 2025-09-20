@@ -6,6 +6,7 @@
 - [攻击矩阵](#攻击矩阵)
 - [安全论坛专栏](#安全论坛专栏)
 - [网络安全大模型](#网络安全大模型)
+- [工具](#工具)
 - [越狱相关](#越狱相关)
 - [工具MCP实现](#工具MCP实现)
 
@@ -26,6 +27,9 @@
 ## 网络安全大模型
 - [AutoAudit](https://github.com/ddzipp/AutoAudit)
 - [SecGPT](https://github.com/Clouditera/SecGPT)
+
+## 工具
+- [promptmap - a security scanner for custom LLM applications](https://github.com/utkusen/promptmap)
 
 ## 越狱相关
 - [Prompt越狱手册](https://github.com/Acmesec/PromptJailbreakManual)
