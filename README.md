@@ -31,6 +31,7 @@
 ## 工具
 - [promptmap - a security scanner for custom LLM applications](https://github.com/utkusen/promptmap)
 - [llm-guard - The Security Toolkit for LLM Interactions](https://github.com/protectai/llm-guard)
+- [romptfoo - Test your prompts, agents, 和 RAGs. AI Red teaming, pentesting, 和 vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, 和 more. Simple declarative configs with command line and CI/CD integration.](https://github.com/promptfoo/promptfoo)
 
 ## 越狱相关
 - [Prompt越狱手册](https://github.com/Acmesec/PromptJailbreakManual)
