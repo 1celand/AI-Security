@@ -30,6 +30,7 @@
 
 ## 工具
 - [promptmap - a security scanner for custom LLM applications](https://github.com/utkusen/promptmap)
+- [llm-guard - The Security Toolkit for LLM Interactions](https://github.com/protectai/llm-guard)
 
 ## 越狱相关
 - [Prompt越狱手册](https://github.com/Acmesec/PromptJailbreakManual)
