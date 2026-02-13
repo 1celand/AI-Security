@@ -22,7 +22,7 @@
 
 ## 安全论坛专栏
 - [先知社区AI专栏](https://xz.aliyun.com/news)
-- [奇安信AI人工智能](https://forum.butian.net/community/AI/newest)
+- [奇安信AI安全专栏](https://forum.butian.net/AISecurity)
 
 ## 网络安全大模型
 - [AutoAudit](https://github.com/ddzipp/AutoAudit)
