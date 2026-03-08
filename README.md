@@ -1,5 +1,9 @@
 # 最全的中文AI安全相关资源整理
 
+## 个人公众号
+<img width="351" height="119" alt="image" src="https://github.com/user-attachments/assets/7822382c-ed75-490f-84de-7dce81b9f10a" />
+
+
 ## 目录
 - [人工智能基本知识](#人工智能基本知识)
 - [大模型安全论文](#大模型安全论文)
